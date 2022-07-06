@@ -5,9 +5,6 @@
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" height="350" />
 </div>
-<div id="stats" align="center" >
-  <img src="https://komarev.com/ghpvc/?username=DmitriyMGN&style=flat-square&color=blue" alt="Stats"/>
-</div>
 
 ---
 
@@ -46,3 +43,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitriyMGN&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyMGN&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="stats" >
+  <img src="https://komarev.com/ghpvc/?username=DmitriyMGN&style=flat-square&color=blue" alt="Stats"/>
+</div>
