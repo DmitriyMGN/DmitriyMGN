@@ -11,5 +11,5 @@
 <h3> :man_technologist: Обо мне : 
 </h3>
 <p>
-Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 </p>
