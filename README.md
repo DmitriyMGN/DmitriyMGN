@@ -23,6 +23,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <h3> 	:gear: Изученные технологии : 
 </h3>
 <div>
+  <img src="https://github.com/DmitriyMGN/DmitriyMGN/blob/main/icons/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriyMGN/DmitriyMGN/blob/main/icons/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriyMGN/DmitriyMGN/blob/main/icons/javascript-original.svg" title="icon" alt="icon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriyMGN/DmitriyMGN/blob/main/icons/html5-original.svg" title="icon" alt="icon" width="40" height="40"/>&nbsp;
