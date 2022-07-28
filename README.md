@@ -34,6 +34,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/DmitriyMGN/DmitriyMGN/blob/main/icons/webpack-original-wordmark.svg" title="icon" alt="icon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriyMGN/DmitriyMGN/blob/main/icons/git-original-wordmark.svg" title="icon" alt="icon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriyMGN/DmitriyMGN/blob/main/icons/trello-plain.svg" title="icon" alt="icon" width="40" height="40"/>&nbsp;
+  
  </div>
  
  ---
