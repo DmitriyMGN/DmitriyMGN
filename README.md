@@ -14,7 +14,8 @@
 Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России
 </p>
 
-- :man_student: Учусь в Яндекс.Практикум
+- :man_student: Работаю в компании по разработке веб-интерфейсов
+- :man_student: Преподаю в Яндекс
 - :shamrock: Стараюсь писать чистый и аккуратный код
 - :earth_americas: Люблю комунникацию и общение с людьми
 - :smiley: Всегда на позитиве
