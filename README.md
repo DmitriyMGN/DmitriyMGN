@@ -49,4 +49,4 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 <div id="stats" >
   <img src="https://komarev.com/ghpvc/?username=DmitriyMGN&style=flat-square&color=blue" alt="Stats"/>
-</div>
+</div> 
