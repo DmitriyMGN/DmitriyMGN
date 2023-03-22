@@ -20,7 +20,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :earth_americas: Люблю комунникацию и общение с людьми
 - :smiley: Всегда на позитиве
 - :mountain: Путешествию по миру
----
+--- 
 <h3> 	:gear: Изученные технологии : 
 </h3>
 <div>
