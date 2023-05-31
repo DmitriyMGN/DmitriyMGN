@@ -7,7 +7,7 @@
 </div>
 
 --- 
-
+ 
 <h3> :man_technologist: Обо мне : 
 </h3>
 <p>
