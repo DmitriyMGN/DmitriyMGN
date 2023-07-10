@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" height="350" />
 </div> 
    
---- 
+---  
  
 <h3> :man_technologist: Обо мне : 
 </h3>
