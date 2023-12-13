@@ -8,7 +8,7 @@
        
 ---   
  
-<h3> :man_technologist: Обо мне : 
+<h3> Обо мне : 
 </h3>
 <p>
 Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России
@@ -19,7 +19,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :smiley: Всегда на позитиве
 - :mountain: Путешествию по миру
 --- 
-<h3> 	:gear: Изученные технологии : 
+<h3> 	 Изученные технологии : 
 </h3>
 <div>
   <img src="https://github.com/DmitriyMGN/DmitriyMGN/blob/main/icons/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
  
  ---
  
- <h3> 	:chart_with_upwards_trend: Статистика : 
+ <h3> 	 Статистика : 
 </h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitriyMGN&theme=dark&background=000000)](https://git.io/streak-stats)
